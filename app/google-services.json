@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "927740519201",
+    "project_id": "chat-connect-e6171",
+    "storage_bucket": "chat-connect-e6171.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927740519201:android:2e5e5f6da8a5846d8dd460",
+        "android_client_info": {
+          "package_name": "com.example.chatconnect_areal_timechatandcommunicationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRo05g5-alaNzMD1tw_xKUPHYjqy5G6og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927740519201:android:0b0fed933f7c5a608dd460",
+        "android_client_info": {
+          "package_name": "com.example.realtimechatcommunication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRo05g5-alaNzMD1tw_xKUPHYjqy5G6og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
